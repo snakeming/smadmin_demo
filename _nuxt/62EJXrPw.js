@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const a={list:{fields:["code","name","software"]},edit:{groups:{option:{name:{en:"Option","zh-HK":"選項",th:"ตัวเลือก",vi:"Tùy chọn",ms:"Pilihan"},type:"basic"}}}},e={view_option:a};class s extends o{static modelName(){return"saas-plan"}name(){return"SaasPlanHook"}_user_raw_view_option=e.view_option??{}}export{s as default};

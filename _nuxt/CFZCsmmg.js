@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const s={list:{fields:["message"],sort:"id:desc"}},t={view_option:s};class r extends o{static modelName(){return"saas-export-job-log"}name(){return"SaasExportJobLogHook"}_user_raw_view_option=t.view_option??{}}export{r as default};

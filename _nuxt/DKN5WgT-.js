@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{fields:["name"]}},a={view_option:e};class i extends o{static modelName(){return"saas-hub-operation-rule"}name(){return"SaasHubOperationRuleHook"}_user_raw_view_option=a.view_option??{}}export{i as default};

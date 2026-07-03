@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{fields:["hub"]}},t={view_option:e};class s extends o{static modelName(){return"zone-route-plan"}name(){return"ZoneRoutePlanHook"}_user_raw_view_option=t.view_option??{}}export{s as default};

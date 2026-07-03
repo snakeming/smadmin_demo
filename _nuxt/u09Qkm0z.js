@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const o={list:{fields:["carrier_name","voyage_or_flight_no","departure_time","arrival_time","capacity_kg","booked_kg"]}},a={view_option:o};class i extends e{static modelName(){return"saas-forwarder-schedule"}name(){return"SaasForwarderScheduleHook"}_user_raw_view_option=a.view_option??{}}export{i as default};

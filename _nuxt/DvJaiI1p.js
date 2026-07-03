@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{fields:["mode"]}},t={view_option:e};class r extends o{static modelName(){return"platform-zone"}name(){return"PlatformZoneHook"}_user_raw_view_option=t.view_option??{}}export{r as default};

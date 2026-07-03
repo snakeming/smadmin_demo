@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{fields:["date_code"]}},a={view_option:t};class l extends o{static modelName(){return"saas-task-pool-plan-slot-stats"}name(){return"SaasTaskPoolPlanSlotStatsHook"}_user_raw_view_option=a.view_option??{}}export{l as default};

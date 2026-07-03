@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const a={list:{fields:["tracking_code","hub","order","partner_task","status_code"],sort:"id:desc"}},e={view_option:a};class r extends o{static modelName(){return"saas-parcel"}name(){return"SaasParcelHook"}_user_raw_view_option=e.view_option??{}}export{r as default};

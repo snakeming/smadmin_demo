@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{fields:["name","priority","active","effective_from","effective_until"]}},e={view_option:t};class i extends o{static modelName(){return"saas-customs-country-rule"}name(){return"SaasCustomsCountryRuleHook"}_user_raw_view_option=e.view_option??{}}export{i as default};

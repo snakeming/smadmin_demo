@@ -1,0 +1,1 @@
+import{m as t}from"./Bme8uf6U.js";const o={list:{fields:["title"]}},n={view_option:o};class a extends t{static modelName(){return"saas-user-training-content"}name(){return"SaasUserTrainingContentHook"}_user_raw_view_option=n.view_option??{}}export{a as default};

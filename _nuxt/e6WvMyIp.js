@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const o={list:{fields:["user","training","date","channel"]}},a={view_option:o};class s extends e{static modelName(){return"saas-user-training-completed"}name(){return"SaasUserTrainingCompletedHook"}_user_raw_view_option=a.view_option??{}}export{s as default};

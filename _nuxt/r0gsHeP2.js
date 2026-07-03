@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{fields:["name","app_env","mode","active"]}},t={view_option:e};class m extends o{static modelName(){return"platform-deployment"}name(){return"PlatformDeploymentHook"}_user_raw_view_option=t.view_option??{}}export{m as default};

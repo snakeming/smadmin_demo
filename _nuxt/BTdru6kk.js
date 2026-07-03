@@ -1,0 +1,1 @@
+import{m as s}from"./Bme8uf6U.js";const o={list:{fields:["title","status_code"]}},t={view_option:o};class i extends s{static modelName(){return"saas-customs-issue"}name(){return"SaasCustomsIssueHook"}_user_raw_view_option=t.view_option??{}}export{i as default};

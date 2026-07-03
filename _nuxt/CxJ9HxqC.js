@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const i={list:{gridFields:["caption"]}},e={view_option:i};class a extends o{static modelName(){return"public-upload-file"}name(){return"PublicUploadFileHook"}_user_raw_view_option=e.view_option??{}}export{a as default};

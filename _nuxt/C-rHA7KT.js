@@ -1,0 +1,1 @@
+import{m as t}from"./Bme8uf6U.js";const a={list:{fields:["invoice","amount","date","payment_type","status"]}},o={view_option:a};class n extends t{static modelName(){return"saas-payment"}name(){return"SaasPaymentHook"}_user_raw_view_option=o.view_option??{}}export{n as default};

@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const o={list:{fields:["name","user"]}},t={view_option:o};class a extends e{static modelName(){return"platform-user-tester"}name(){return"PlatformUserTesterHook"}_user_raw_view_option=t.view_option??{}}export{a as default};

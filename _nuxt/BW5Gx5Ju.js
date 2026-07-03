@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{fields:["active","name","description"]}},i={view_option:t};class n extends o{static modelName(){return"platform-notification-topic"}name(){return"PlatformNotificationTopicHook"}_user_raw_view_option=i.view_option??{}}export{n as default};

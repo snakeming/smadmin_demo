@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{fields:["title"]}},e={view_option:t};class r extends o{static modelName(){return"saas-bug-report"}name(){return"SaasBugReportHook"}_user_raw_view_option=e.view_option??{}}export{r as default};

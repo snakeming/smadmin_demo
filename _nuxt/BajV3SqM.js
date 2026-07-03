@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const a={list:{fields:["type_name","name"]}},o={view_option:a};class n extends e{static modelName(){return"saas-hub-stream-type"}name(){return"SaasHubStreamTypeHook"}_user_raw_view_option=o.view_option??{}}export{n as default};

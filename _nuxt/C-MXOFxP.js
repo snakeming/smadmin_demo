@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const i={list:{fields:["name"]}},e={view_option:i};class t extends o{static modelName(){return"saas-flow-distance-pricing-profile"}name(){return"SaasFlowDistancePricingProfileHook"}_user_raw_view_option=e.view_option??{}}export{t as default};

@@ -1,0 +1,1 @@
+import{m as t}from"./Bme8uf6U.js";const e={list:{fields:["category","title","priority"]}},o={view_option:e};class i extends t{static modelName(){return"saas-partner-ticket"}name(){return"SaasPartnerTicketHook"}_user_raw_view_option=o.view_option??{}}export{i as default};

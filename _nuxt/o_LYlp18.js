@@ -1,0 +1,1 @@
+import{m as e,a4 as t}from"./Bme8uf6U.js";class r extends e{static modelName(){return"common-unloc-code"}name(){return"CommonUnlocCodeHook"}mapViewDataConfig(){const o=new t;return o.setPointCoordinatePath("coordinate"),o.setDefaultPointIcon("fa-circle-dot"),o.setDefaultPointColor("green"),o}}export{r as default};

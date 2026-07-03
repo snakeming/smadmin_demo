@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const o=[];class a extends e{static modelName(){return"saas-customs-requirement"}name(){return"SaasCustomsRequirementHook"}_user_raw_view_option=o.view_option??{}}export{a as default};

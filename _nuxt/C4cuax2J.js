@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const o={list:{fields:["value","verified"]}},s={view_option:o};class i extends e{static modelName(){return"saas-customs-requirement-field-value"}name(){return"SaasCustomsRequirementFieldValueHook"}_user_raw_view_option=s.view_option??{}}export{i as default};

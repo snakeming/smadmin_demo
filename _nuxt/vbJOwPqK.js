@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{fields:["name","service_mode"]}},i={view_option:e};class r extends o{static modelName(){return"saas-flow-pricing-profile"}name(){return"SaasFlowPricingProfileHook"}_user_raw_view_option=i.view_option??{}}export{r as default};

@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{sort:"id:desc"}},a={view_option:t};class e extends o{static modelName(){return"saas-notification-usage-log"}name(){return"SaasNotificationUsageLogHook"}_user_raw_view_option=a.view_option??{}}export{e as default};

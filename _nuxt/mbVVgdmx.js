@@ -1,0 +1,1 @@
+import{m as s}from"./Bme8uf6U.js";const o={list:{fields:["order","origin_market","destination_market","status_code"]}},t={view_option:o};class i extends s{static modelName(){return"saas-customs-case"}name(){return"SaasCustomsCaseHook"}_user_raw_view_option=t.view_option??{}}export{i as default};

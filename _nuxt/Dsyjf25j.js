@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const a={edit:{groups:{theme:{name:{en:"Theme","zh-HK":"主題",th:"ธีม",vi:"Chủ đề",ms:"Tema"},icon:"fas-paint-roller",type:"basic"}}}},n={view_option:a};class s extends e{static modelName(){return"saas-sender-internal-theme"}name(){return"SaasSenderInternalThemeHook"}_user_raw_view_option=n.view_option??{}}export{s as default};

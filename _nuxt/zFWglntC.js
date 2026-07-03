@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const s=[];class r extends o{static modelName(){return"saas-broker-submission"}name(){return"SaasBrokerSubmissionHook"}_user_raw_view_option=s.view_option??{}}export{r as default};

@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const s={list:{sort:"id:desc"}},t={view_option:s};class a extends o{static modelName(){return"saas-user-export-log"}name(){return"SaasUserExportLogHook"}_user_raw_view_option=t.view_option??{}}export{a as default};

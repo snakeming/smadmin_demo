@@ -1,0 +1,1 @@
+import{m as t}from"./Bme8uf6U.js";const o={list:{fields:["title"]}},i={view_option:o};class n extends t{static modelName(){return"saas-notification-template-i18n"}name(){return"SaasNotificationTemplateI18nHook"}_user_raw_view_option=i.view_option??{}}export{n as default};

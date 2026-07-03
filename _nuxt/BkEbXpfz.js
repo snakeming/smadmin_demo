@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const o=[];class s extends e{static modelName(){return"saas-partner-job-service-fee-scheme"}name(){return"SaasPartnerJobServiceFeeSchemeHook"}_user_raw_view_option=o.view_option??{}}export{s as default};

@@ -1,0 +1,1 @@
+import{m as a}from"./Bme8uf6U.js";const o={list:{fields:["payment","amount","date","status"]}},s={view_option:o};class n extends a{static modelName(){return"saas-bank-transfer"}name(){return"SaasBankTransferHook"}_user_raw_view_option=s.view_option??{}}export{n as default};

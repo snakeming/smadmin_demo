@@ -1,0 +1,1 @@
+import"./Bme8uf6U.js";import o from"./BVZdjWUO.js";const e={list:{fields:["name","code","color","priority"]}},t={view_option:e};class i extends o{static modelName(){return"saas-zone-by-hub"}name(){return"SaasZoneByHubHook"}_user_raw_view_option=t.view_option??{}}export{i as default};

@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const a={list:{sort:"id:desc"}},e={view_option:a};class s extends o{static modelName(){return"saas-tenant-openapi-log"}name(){return"SaasTenantOpenapiLogHook"}_user_raw_view_option=e.view_option??{}}export{s as default};

@@ -1,0 +1,1 @@
+import{m as t}from"./Bme8uf6U.js";const e={list:{sort:"id:desc"}},o={view_option:e};class a extends t{static modelName(){return"saas-tenant-system-event-log"}name(){return"SaasTenantSystemEventLogHook"}_user_raw_view_option=o.view_option??{}}export{a as default};

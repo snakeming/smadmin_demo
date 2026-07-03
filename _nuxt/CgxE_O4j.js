@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{fields:["name"]}},i={view_option:e};class s extends o{static modelName(){return"saas-flow-zone-pricing-profile"}name(){return"SaasFlowZonePricingProfileHook"}_user_raw_view_option=i.view_option??{}}export{s as default};

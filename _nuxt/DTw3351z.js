@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const a=[];class e extends o{static modelName(){return"saas-tenant-platform-info"}name(){return"SaasTenantPlatformInfoHook"}_user_raw_view_option=a.view_option??{}}export{e as default};

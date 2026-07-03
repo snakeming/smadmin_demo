@@ -1,0 +1,1 @@
+import{m as a}from"./Bme8uf6U.js";const e={list:{fields:["origin","destination","trade_lane_code"]}},o={view_option:e};class n extends a{static modelName(){return"saas-forwarder-trade-lane"}name(){return"SaasForwarderTradeLaneHook"}_user_raw_view_option=o.view_option??{}}export{n as default};

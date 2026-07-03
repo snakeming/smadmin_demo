@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{sort:"id:desc"}},a={view_option:e};class t extends o{static modelName(){return"saas-sp-core-config-change-log"}name(){return"SaasSpCoreConfigChangeLogHook"}_user_raw_view_option=a.view_option??{}}export{t as default};

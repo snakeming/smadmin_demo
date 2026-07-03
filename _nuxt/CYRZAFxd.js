@@ -1,0 +1,1 @@
+import{m as t}from"./Bme8uf6U.js";const a={list:{fields:["payment","amount","status"]}},o={view_option:a};class m extends t{static modelName(){return"saas-dummy-payment"}name(){return"SaasDummyPaymentHook"}_user_raw_view_option=o.view_option??{}}export{m as default};

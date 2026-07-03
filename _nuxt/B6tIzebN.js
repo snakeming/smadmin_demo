@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{fields:["title"]}},s={view_option:t};class i extends o{static modelName(){return"saas-support-i18n"}name(){return"SaasSupportI18nHook"}_user_raw_view_option=s.view_option??{}}export{i as default};

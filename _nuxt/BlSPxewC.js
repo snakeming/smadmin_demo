@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{fields:["date","net_amount","status"]}},e={view_option:t};class i extends o{static modelName(){return"saas-invoice"}name(){return"SaasInvoiceHook"}_user_raw_view_option=e.view_option??{}}export{i as default};

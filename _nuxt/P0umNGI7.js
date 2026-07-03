@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const s={edit:{groups:{info:{name:"info",type:"basic"},security:{name:"security",type:"basic"},status:{name:"status",type:"basic"}}}},a={view_option:s};class i extends e{static modelName(){return"saas-sender-api-key"}name(){return"SaasSenderApiKeyHook"}_user_raw_view_option=a.view_option??{}}export{i as default};

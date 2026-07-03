@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const s={list:{sort:"id:desc"}},t={view_option:s};class i extends o{static modelName(){return"saas-user-audit-trail-log"}name(){return"SaasUserAuditTrailLogHook"}_user_raw_view_option=t.view_option??{}}export{i as default};

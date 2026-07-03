@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const o={list:{fields:["hub","event","time","payload","status_code"],sort:"id:desc"}},t={view_option:o};class n extends e{static modelName(){return"saas-parcel-event-log"}name(){return"SaasParcelEventLogHook"}_user_raw_view_option=t.view_option??{}}export{n as default};

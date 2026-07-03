@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{fields:["event","time","payload","status_code"],sort:"id:desc"}},t={view_option:e};class s extends o{static modelName(){return"saas-container-event-log"}name(){return"SaasContainerEventLogHook"}_user_raw_view_option=t.view_option??{}}export{s as default};

@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{sort:"id:desc"}},e={view_option:t};class a extends o{static modelName(){return"route-plan"}name(){return"RoutePlanHook"}_user_raw_view_option=e.view_option??{}}export{a as default};

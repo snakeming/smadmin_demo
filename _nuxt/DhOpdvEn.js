@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const a={list:{fields:["date_code","flow","time_slot_key"]}},t={view_option:a};class i extends o{static modelName(){return"saas-task-pools-portfolio-data"}name(){return"SaasTaskPoolsPortfolioDataHook"}_user_raw_view_option=t.view_option??{}}export{i as default};

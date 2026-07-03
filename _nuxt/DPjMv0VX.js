@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{fields:["status_code"]}},s={view_option:e};class i extends o{static modelName(){return"saas-customs-requirement-doc"}name(){return"SaasCustomsRequirementDocHook"}_user_raw_view_option=s.view_option??{}}export{i as default};

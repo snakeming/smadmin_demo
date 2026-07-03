@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const t={list:{fields:["incentive_rule"],sort:"id:desc"}},o={view_option:t};class a extends e{static modelName(){return"saas-partner-job-system-incentive"}name(){return"SaasPartnerJobSystemIncentiveHook"}_user_raw_view_option=o.view_option??{}}export{a as default};

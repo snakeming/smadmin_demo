@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{fields:["name","description","sender","type","external_code"]}},t={view_option:e};class a extends o{static modelName(){return"saas-pickup-point"}name(){return"SaasPickupPointHook"}_user_raw_view_option=t.view_option??{}}export{a as default};

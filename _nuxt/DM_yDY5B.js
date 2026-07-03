@@ -1,0 +1,1 @@
+import{m as a}from"./Bme8uf6U.js";const o={list:{sort:"id:desc"},edit:{groups:{variation:{name:"variation",icon:"fas-money-bill-wave",type:"basic"}}}},e={view_option:o};class r extends a{static modelName(){return"saas-partner-job-fee-variation"}name(){return"SaasPartnerJobFeeVariationHook"}_user_raw_view_option=e.view_option??{}}export{r as default};

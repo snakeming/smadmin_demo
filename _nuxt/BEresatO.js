@@ -1,0 +1,1 @@
+import{m as t}from"./Bme8uf6U.js";const e={edit:{groups:{info:{name:"info",type:"basic"},security:{name:"security",type:"basic"},status:{name:"status",type:"basic"}}}},o={view_option:e};class i extends t{static modelName(){return"platform-tenant-api-key"}name(){return"PlatformTenantApiKeyHook"}_user_raw_view_option=o.view_option??{}}export{i as default};

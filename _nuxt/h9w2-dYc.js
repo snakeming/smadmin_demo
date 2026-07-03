@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{fields:["pool","task","hub","zone","time_slot_key","sla_deadline"]}},s={view_option:e};class i extends o{static modelName(){return"saas-task-pool-item"}name(){return"SaasTaskPoolItemHook"}_user_raw_view_option=s.view_option??{}}export{i as default};

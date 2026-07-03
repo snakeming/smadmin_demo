@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const s={list:{sort:"id:desc"}},a={view_option:s};class i extends o{static modelName(){return"saas-sms-api-log"}name(){return"SaasSmsApiLogHook"}_user_raw_view_option=a.view_option??{}}export{i as default};

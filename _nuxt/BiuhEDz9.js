@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{fields:["language","title"]}},e={view_option:t};class n extends o{static modelName(){return"platform-app-update-i18n"}name(){return"PlatformAppUpdateI18nHook"}_user_raw_view_option=e.view_option??{}}export{n as default};

@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const s={list:{sort:"id:desc"}},e={view_option:s};class r extends o{static modelName(){return"saas-partner-job-dispatch-response"}name(){return"SaasPartnerJobDispatchResponseHook"}_user_raw_view_option=e.view_option??{}}export{r as default};

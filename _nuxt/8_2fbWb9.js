@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{fields:["language","title","category","sequence"]}},e={view_option:t};class s extends o{static modelName(){return"platform-support"}name(){return"PlatformSupportHook"}_user_raw_view_option=e.view_option??{}}export{s as default};

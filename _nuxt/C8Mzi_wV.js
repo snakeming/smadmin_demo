@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const t={list:{fields:["date_code"]}},s={view_option:t};class i extends o{static modelName(){return"saas-dispatch-pool-exe-slot-stats"}name(){return"SaasDispatchPoolExeSlotStatsHook"}_user_raw_view_option=s.view_option??{}}export{i as default};

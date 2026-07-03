@@ -1,0 +1,1 @@
+import{m as s}from"./Bme8uf6U.js";const e={list:{fields:["sender_type","message"]}},o={view_option:e};class i extends s{static modelName(){return"saas-customs-message"}name(){return"SaasCustomsMessageHook"}_user_raw_view_option=o.view_option??{}}export{i as default};

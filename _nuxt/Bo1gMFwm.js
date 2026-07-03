@@ -1,0 +1,1 @@
+import{m as t,Y as o}from"./Bme8uf6U.js";const r={list:{fields:["name"]}},n={view_option:r};class s extends t{static modelName(){return"market-region"}name(){return"MarketRegionHook"}_user_raw_view_option=n.view_option??{};preferredFilterRules(){const e=this._extends_value;return e!=null?[new o("market","eq",e)]:null}}export{s as default};

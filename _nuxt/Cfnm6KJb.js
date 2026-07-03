@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const t={list:{sort:"id:desc"}},o={view_option:t};class s extends e{static modelName(){return"saas-partner-job-agent-incentive"}name(){return"SaasPartnerJobAgentIncentiveHook"}_user_raw_view_option=o.view_option??{}}export{s as default};

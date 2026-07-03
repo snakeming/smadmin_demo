@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const e={list:{sort:"id:desc"}},t={view_option:e};class r extends o{static modelName(){return"saas-partner-job-fee-log"}name(){return"SaasPartnerJobFeeLogHook"}_user_raw_view_option=t.view_option??{}}export{r as default};

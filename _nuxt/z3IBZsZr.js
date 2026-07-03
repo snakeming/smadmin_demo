@@ -1,0 +1,1 @@
+import{m as t}from"./Bme8uf6U.js";const o={list:{fields:["tenant","notification","notifier","title","message_status","send_at","response"],sort:"id:desc"}},s={view_option:o};class a extends t{static modelName(){return"saas-notification-message"}name(){return"SaasNotificationMessageHook"}_user_raw_view_option=s.view_option??{}}export{a as default};

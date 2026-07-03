@@ -1,0 +1,1 @@
+import{m as o}from"./Bme8uf6U.js";const s={list:{fields:["plan_code"]}},t={view_option:s};class e extends o{static modelName(){return"saas-subscription-history"}name(){return"SaasSubscriptionHistoryHook"}_user_raw_view_option=t.view_option??{}}export{e as default};

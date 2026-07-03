@@ -1,0 +1,1 @@
+import{m as t}from"./Bme8uf6U.js";const o={list:{fields:["date_code","total","dispatching"]}},a={view_option:o};class e extends t{static modelName(){return"saas-task-pool-task-statistic"}name(){return"SaasTaskPoolTaskStatisticHook"}_user_raw_view_option=a.view_option??{}}export{e as default};

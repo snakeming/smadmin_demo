@@ -1,0 +1,1 @@
+import{m as e}from"./Bme8uf6U.js";const o={list:{fields:["type_name","name","subject","target","category","mode"]}},t={view_option:o};class n extends e{static modelName(){return"saas-hub-operation-type"}name(){return"SaasHubOperationTypeHook"}_user_raw_view_option=t.view_option??{}}export{n as default};
